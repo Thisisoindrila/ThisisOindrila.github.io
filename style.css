@@ -186,7 +186,7 @@ nav ul li a:hover::after{
     display: inline-block;
 }
 .services-list div:hover{
-    background: #cc2056;
+    background: #000000;
     
     /*background: #3cb6be ;*/
     transform: translateY(-10px);
@@ -341,24 +341,24 @@ form .btn2{
 }
 .highlight {
   /*background-color: #5138ad;    soft yellow highlight */
-  background-color: #875cd8;
+  background-color: #ff004f;
   padding: 2px 6px;
   border-radius: 4px;
 }
 
 .status {
   font-weight: bold;
-  background-color: #5607d4;   /* soft yellow highlight */
+  background-color: #ff004f;   /* soft yellow highlight */
   padding: 2px 6px;
   border-radius: 4px;
 }
 .author {
   font-weight: bold;
-  background-color: #5607d4; /* academic-looking blue */
+  color: #ff004f; /* academic-looking blue */
 }
 .contribution-box {
   background: #ecebea;        /* soft blue background */
-  border-left: 4px solid #875cd8; /* academic blue bar */
+  border-left: 4px solid #ff004f; /* academic blue bar */
   padding: 10px 15px;
   margin: 15px 0;
   border-radius: 6px;
